@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Duvida de uso responsavel
+    url: https://github.com/0x03c1/guia-rfid/blob/main/README.md#uso-responsavel
+    about: Antes de abrir, leia a secao de uso responsavel do material.
