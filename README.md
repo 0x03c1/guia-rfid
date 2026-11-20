@@ -5,9 +5,9 @@ credenciais de rádio-frequência (RFID/NFC). Cobre as faixas LF (baixa frequên
 cerca de 125 kHz) e HF (alta frequência, 13,56 MHz).
 
 A ideia aqui é entender o que é cada credencial, como ela funciona por dentro e
-como identificá-la antes de tentar ler, copiar ou escrever. Os capítulos 01 a 08
+como identificá-la antes de tentar ler, copiar ou escrever. Os capítulos 01 a 09
 não citam equipamento nenhum de propósito, para focar no conceito. Os aparelhos
-aparecem só no apêndice (09).
+aparecem só no apêndice (10).
 
 ## Índice
 
@@ -21,7 +21,8 @@ aparecem só no apêndice (09).
 | 06 | [Cartões Magic](docs/06-cartoes-magic.md) | UID gravável, gerações e por que tags se perdem |
 | 07 | [Metodologia de identificação](docs/07-metodologia-identificacao.md) | Fluxograma mestre, passo a passo e checklist |
 | 08 | [Erros comuns](docs/08-erros-comuns.md) | Sintoma, causa e saída |
-| 09 | [Dispositivos de leitura](docs/09-dispositivos-leitura.md) | Aparelhos que ajudam a ler (apêndice) |
+| 09 | [Estudo de caso](docs/09-estudo-de-caso.md) | O método rodando de ponta a ponta num exemplo completo |
+| 10 | [Dispositivos de leitura](docs/10-dispositivos-leitura.md) | Aparelhos que ajudam a ler (apêndice) |
 
 ### Consulta rápida
 
@@ -33,7 +34,7 @@ aparecem só no apêndice (09).
 
 ## Como usar
 
-- Se está começando, leia na ordem, do 01 ao 09.
+- Se está começando, leia na ordem, do 01 ao 10.
 - Se já tem uma credencial na mão e quer identificar, vá direto ao
   [fluxograma mestre (cap. 07)](docs/07-metodologia-identificacao.md).
 - Se travou num erro, consulte o
@@ -67,6 +68,11 @@ Este material é educacional. Identifique, leia ou copie apenas credenciais que 
 suas ou para as quais você tem autorização do dono. Clonar credencial de terceiro
 sem permissão pode ser crime. O autor não se responsabiliza pelo uso indevido do
 que está aqui.
+
+## Como contribuir
+
+Correções, melhorias de texto e diagramas são bem-vindos. Veja o
+[guia de contribuição](CONTRIBUTING.md) para o padrão do material e o passo a passo.
 
 ## Licença
 
