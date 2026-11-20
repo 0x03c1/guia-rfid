@@ -118,4 +118,4 @@ releitura.
   perdida.
 - Reler depois de gravar resolve metade das dúvidas.
 
-Próximo: [09 - Dispositivos de leitura](09-dispositivos-leitura.md)
+Próximo: [09 - Estudo de caso](09-estudo-de-caso.md)

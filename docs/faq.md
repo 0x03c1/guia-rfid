@@ -85,7 +85,7 @@ e [cap. 08](08-erros-comuns.md).
 
 ## Por onde começo se nunca mexi com isso?
 
-Leia na ordem, do [cap. 01](01-fundamentos.md) ao [cap. 09](09-dispositivos-leitura.md).
+Leia na ordem, do [cap. 01](01-fundamentos.md) ao [cap. 10](10-dispositivos-leitura.md).
 Se já tem uma credencial na mão, vá ao
 [fluxograma mestre (cap. 07)](07-metodologia-identificacao.md). Para consulta
 rápida, use a [referência rápida](referencia-rapida.md).
