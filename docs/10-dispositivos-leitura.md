@@ -1,4 +1,4 @@
-# 09 - Dispositivos de leitura (apêndice)
+# 10 - Dispositivos de leitura (apêndice)
 
 Até aqui o guia foi neutro quanto a equipamento, de propósito, para focar nos
 conceitos. Este apêndice cita categorias e exemplos de aparelhos que ajudam a ler
@@ -67,7 +67,7 @@ Como escolher:
 
 ## Encerramento
 
-Com os capítulos 01 a 08 você entende o que é cada credencial e como identificá-la.
+Com os capítulos 01 a 09 você entende o que é cada credencial e como identificá-la.
 Com este apêndice, com o que fazer isso. O método importa mais que o aparelho:
 frequência, protocolo, tipo, memória e escrita, sempre verificando no final.
 
